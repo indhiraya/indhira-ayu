@@ -30,6 +30,9 @@ export const metadata: Metadata = {
     description: "Informatics Engineering student at ITS bridging business and technology.",
     images: ["/Image1.png"],
   },
+  verification: {
+    google: "S0CKIN_4lsaEr462CWbBEmvVjFzH8WCQ2jow2vrudg4",
+  },
 };
 
 const jsonLd = {
