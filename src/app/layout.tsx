@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
-const SITE_URL = "https://GANTI-DOMAIN-ANDA.vercel.app"; // ganti setelah deploy
+const SITE_URL = "https://indhira-ayu.vercel.app"; 
 
 const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
