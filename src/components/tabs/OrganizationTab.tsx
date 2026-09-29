@@ -193,7 +193,7 @@ export default function OrganizationTab() {
                     ‹ Prev
                   </button>
                   <span className="text-[11px] font-bold text-blue-950/70">
-                    {selectedOrgIndex + 1} of {ORGANIZATIONS.length}
+                    {(selectedOrgIndex ?? 0) + 1} of {ORGANIZATIONS.length}
                   </span>
                   <button
                     disabled={selectedOrgIndex === ORGANIZATIONS.length - 1}
