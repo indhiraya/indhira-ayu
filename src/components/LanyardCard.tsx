@@ -88,7 +88,6 @@ export default function LanyardCard() {
         dragSnapToOrigin={true}
         dragElastic={0.65}
         style={{ x, y, rotate }}
-        whileGrab={{ cursor: "grabbing" }}
         whileHover={{ scale: 1.02 }}
         whileDrag={{ scale: 1.05 }}
         transition={{
