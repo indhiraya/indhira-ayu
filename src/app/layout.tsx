@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
-const SITE_URL = "https://indhira-ayu.vercel.app"; 
+const SITE_URL = "https://indhira-ayu.vercel.app";
 
 const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
@@ -22,13 +22,13 @@ export const metadata: Metadata = {
     siteName: "Indhira Ayu Puspita Ningrum",
     title: "Indhira Ayu Puspita Ningrum | Portfolio",
     description: "Informatics Engineering student at ITS bridging business and technology.",
-    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Indhira Ayu Puspita Ningrum portfolio" }],
+    images: [{ url: "/Image1.png", width: 307, height: 486, alt: "Indhira Ayu Puspita Ningrum" }],
   },
   twitter: {
-    card: "summary_large_image",
+    card: "summary",
     title: "Indhira Ayu Puspita Ningrum | Portfolio",
     description: "Informatics Engineering student at ITS bridging business and technology.",
-    images: ["/og-image.png"],
+    images: ["/Image1.png"],
   },
 };
 
