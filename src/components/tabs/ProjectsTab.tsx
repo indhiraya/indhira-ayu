@@ -243,7 +243,7 @@ export default function ProjectsTab() {
                       ‹ Prev
                     </button>
                     <span className="text-[10px] font-bold text-blue-950/70 dark:text-white/80">
-                      {selectedProjIndex + 1}/{PROJECTS.length}
+                      {(selectedProjIndex ?? 0) + 1}/{PROJECTS.length}
                     </span>
                     <button
                       disabled={selectedProjIndex === PROJECTS.length - 1}
