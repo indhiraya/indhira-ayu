@@ -1,0 +1,149 @@
+[
+  {
+    "id": "proj-1",
+    "title": "Portfolio Website",
+    "shortDescription": "An interactive portfolio website built with Next.js, Framer Motion, and Tailwind CSS, featuring a sky-to-ground landscape concept.",
+    "fullDetails": "Built a modern web interface with glassmorphism effects, interactive timeline animations, and an automated contact form integration using Web3Forms. Designed responsively with dark mode support.",
+    "features": [
+      "Interactive Wavy Timeline & Organization Grid Modal",
+      "Dynamic Sky Background & Smooth Scroll Animations",
+      "Integrated Email Contact Form"
+    ],
+    "tech": ["Next.js", "Tailwind CSS", "Framer Motion", "TypeScript"],
+    "demoUrl": "https://portfolio-indhira.vercel.app"
+  },
+  {
+    "id": "proj-2",
+    "title": "Rat in Maze",
+    "shortDescription": "A simple C++ program that solves the maze problem using a backtracking algorithm.",
+    "fullDetails": "A simple C++ program that solves the maze problem using a backtracking algorithm, built as the final project for a fundamentals of programming course.",
+    "features": [
+      "Maze input using 0 (representing a wall) and 1 (representing a path)",
+      "Outputs the path taken by the rat from the starting point to the endpoint"
+    ],
+    "tech": ["C++", "Algorithms", "Backtracking"]
+  },
+  {
+    "id": "proj-3",
+    "title": "Database Management System for a Restaurant",
+    "shortDescription": "A database management system for a restaurant that enables managing menu, order, and customer data.",
+    "fullDetails": "A database management system for a restaurant that enables managing menu, order, and customer data, built using Microsoft Access.",
+    "features": [
+      "Users can view menu, order, and customer data",
+      "Admins can add, delete, and edit menu, order, and customer data",
+      "Admins can view key information such as total sales, best-selling menu items, and loyal customers"
+    ],
+    "tech": ["Microsoft Access", "Database Management System"]
+  },
+  {
+    "id": "proj-4",
+    "title": "Javanese-English-Indonesian Dictionary",
+    "shortDescription": "A web-based dictionary for translating single words from Javanese to English and Indonesian, and vice versa.",
+    "fullDetails": "A web-based dictionary for translating single words from Javanese to English and Indonesian, and vice versa, built using CSS, HTML, JavaScript, and AJAX.",
+    "features": [
+      "Users can translate words from Javanese to English and Indonesian, and vice versa",
+      "Admins can add, delete, and edit words in the dictionary"
+    ],
+    "tech": ["HTML", "CSS", "JavaScript", "AJAX"]
+  },
+  {
+    "id": "proj-5",
+    "title": "Flappy Bird Game",
+    "shortDescription": "A Flappy Bird game clone.",
+    "fullDetails": "A simple Flappy Bird game developed using Java to fulfill the final assignment for an object-oriented programming course.",
+    "features": [
+      "Users can play the Flappy Bird game",
+      "Users can view the highest score achieved"
+    ],
+    "tech": ["Java", "Object Oriented Programming"]
+  },
+  {
+    "id": "proj-6",
+    "title": "UNO Multiplayer Game",
+    "shortDescription": "A UNO game that can be played by multiple players online.",
+    "fullDetails": "A UNO game that can be played by multiple players online, built using Python and socket programming to fulfill the final assignment for a computer networks course.",
+    "features": [
+      "Users can play UNO with multiple players, but must be on the same internet connection",
+      "Users can view the game status and scores"
+    ],
+    "tech": ["Python", "Socket Programming"],
+    "githubUrl": "https://github.com/indhira/uno-multiplayer"
+  },
+  {
+    "id": "proj-7",
+    "title": "Miuwsweeper",
+    "shortDescription": "Miuwsweeper, a cat-themed version of the Minesweeper game.",
+    "fullDetails": "Miuwsweeper, a cat-themed version of the Minesweeper game, built using Python, Tkinter, and BFS and DFS algorithms to fulfill the final assignment for a Design and Analysis of Algorithms course.",
+    "features": [
+      "Users can play the Miuwsweeper game",
+      "Users can set the game's difficulty level",
+      "Users can restart the game"
+    ],
+    "tech": ["Python", "Tkinter", "BFS", "DFS"],
+    "githubUrl": "https://github.com/indhiraya/Design-and-Analysis-Algorithms",
+    "demoUrl": "https://indhiraya.github.io/Design-and-Analysis-Algorithms/"
+  },
+  {
+    "id": "proj-8",
+    "title": "DSA and RSA Algorithm Implementation",
+    "shortDescription": "Implementation of DSA and RSA algorithms for encrypting and decrypting messages between devices.",
+    "fullDetails": "Implementation of DSA and RSA algorithms for encrypting and decrypting messages between devices, built using Python and the Cryptography library to fulfill the final assignment for a data security course.",
+    "features": [
+      "Users can send messages to different devices, with messages automatically encrypted",
+      "Users can view the keys used for encrypting and decrypting messages",
+      "Users can view received messages, which are automatically decrypted"
+    ],
+    "tech": ["Python", "Cryptography Library", "DSA", "RSA"],
+    "githubUrl": "http://github.com/indhiraya/Keamanan-Informasi"
+  },
+  {
+    "id": "proj-9",
+    "title": "Customer Arrival Simulation at a Bank",
+    "shortDescription": "A simulation of customer arrivals at a bank using JaamSim.",
+    "fullDetails": "A simulation of customer arrivals at a bank using JaamSim, applying discrete and continuous distribution approaches, to fulfill the final assignment for a modeling and simulation course.",
+    "features": [
+      "Users can view the customer arrival simulation",
+      "Users can view customer quantity statistics",
+      "Users can view customer waiting times"
+    ],
+    "tech": ["Jaamsim", "Discrete Distribution", "Continuous Distribution"]
+  },
+  {
+    "id": "proj-10",
+    "title": "Building an Expert System for Sentiment Analysis on Airline Services",
+    "shortDescription": "Building an expert system for sentiment analysis on airline services using BERT.",
+    "fullDetails": "Building an expert system for sentiment analysis on airline services using BERT to fulfill the final assignment for a Knowledge-Based Systems Engineering course.",
+    "features": [
+      "Users can input new airline service feedback data and get sentiment analysis results from that data",
+      "Users can view sentiment analysis statistics from existing airline service feedback data"
+    ],
+    "tech": ["Python", "BERT", "Expert System"],
+    "demoUrl": "https://github.com/indhiraya/FP-RSBP"
+  },
+  {
+    "id": "proj-11",
+    "title": "Building a Website for Preventive Maintenance of Machines at PLN",
+    "shortDescription": "Building a website for preventive maintenance of machines at PLN using Laravel.",
+    "fullDetails": "Building a website for preventive maintenance of machines at PLN using Laravel to fulfill an internship (Praktik Kerja Lapangan) assignment.",
+    "features": [
+      "Users can input maintenance history data or record new maintenance data and get analysis results from that data",
+      "Users can view analysis statistics from existing maintenance history data and recommendations for the next maintenance date"
+    ],
+    "tech": ["Laravel", "PHP", "MySQL", "Bootstrap", "Python"],
+    "demoUrl": "https://drive.google.com/drive/u/1/folders/1DbP2khLVRdMRvjFIoknHQWmp8Xs82AeZ"
+  },
+  {
+    "id": "proj-12",
+    "title": "Building a Financial Literacy Gamification Website for the Financial Services Authority (OJK)",
+    "shortDescription": "Building a financial literacy gamification website for the Financial Services Authority (OJK) using Laravel.",
+    "fullDetails": "Building a financial literacy gamification website for the Financial Services Authority (OJK) using Laravel to fulfill a Capstone course assignment.",
+    "features": [
+      "Users can play the game without needing to log in",
+      "Users can view statistics from games already played",
+      "Users can edit their profile and customize their avatar",
+      "Users can earn rewards in the form of badges and points from games already played"
+    ],
+    "tech": ["Laravel", "PHP", "PostgreSQL", "Bootstrap"],
+    "demoUrl": "https://drive.google.com/file/d/1Eqs-czsg-UokaimU-R6wECgJT6hXXGnH/view?usp=sharing"
+  }
+]

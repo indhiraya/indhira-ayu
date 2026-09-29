@@ -1,0 +1,225 @@
+[
+  {
+    "id": "exp-1",
+    "monthYear": "August 2023",
+    "events": [
+      {
+        "title": "Graduated from Senior High School",
+        "period": "August 2023",
+        "description": "Graduated from MAN 3 Jombang and Bahrul Ulum Tambakberas Islamic Boarding School, Jombang."
+      },
+      {
+        "title": "Awardee of BIB Scholarship",
+        "period": "August 2023 - August 2027",
+        "description": "Became a recipient of the BIB Scholarship (Beasiswa Indonesia Bangkit) while studying Informatics Engineering at ITS."
+      },
+      {
+        "title": "Member of CSSMora ITS",
+        "period": "August 2023 - August 2027",
+        "description": "Became a member of CSSMora ITS (Community of Students and Scholars of Mora), contributing as a BIB scholarship awardee at ITS."
+      }
+    ],
+    "techStack": ["Nahwu", "Shorof", "English", "Arabic"]
+  },
+  {
+    "id": "exp-2",
+    "monthYear": "September 2023",
+    "events": [
+      {
+        "title": "Member of UKM Penalaran ITS",
+        "period": "September 2023 - September 2024",
+        "description": "Learned to write proper and well-structured scientific papers."
+      },
+      {
+        "title": "Member of UKM TDC ITS",
+        "period": "September 2023 - September 2024",
+        "description": "Learned the fundamentals of proper entrepreneurship."
+      }
+    ],
+    "techStack": ["research", "entrepreneur", "communication", "teamwork", "problem solving"]
+  },
+  {
+    "id": "exp-3",
+    "monthYear": "October 2023",
+    "events": [
+      {
+        "title": "Staff Data Management of Ini Lho ITS! 2024",
+        "period": "October 2023 - March 2024",
+        "description": "Processed participant and competition data for the Ini Lho ITS! 2024 event."
+      }
+    ],
+    "techStack": ["excel", "data management", "communication", "teamwork", "problem solving"]
+  },
+  {
+    "id": "exp-4",
+    "monthYear": "November 2023",
+    "events": [
+      {
+        "title": "Staff Consumption of Organizational Management Training (LMB ITS)",
+        "period": "November 2023",
+        "description": "Managed consumption and catering for participants and committee members of the Organizational Management Training (LMB ITS) 2023."
+      }
+    ],
+    "techStack": ["communication", "teamwork", "problem solving"]
+  },
+  {
+    "id": "exp-5",
+    "monthYear": "December 2023",
+    "events": [
+      {
+        "title": "Rat in Maze Project Using C++",
+        "period": "December 2023",
+        "description": "Built a Rat in Maze game using the C++ programming language."
+      },
+      {
+        "title": "Built a Database System for a Restaurant Using Microsoft Access",
+        "period": "December 2023",
+        "description": "Developed a database system for a restaurant using Microsoft Access."
+      }
+    ],
+    "techStack": ["C++", "C", "MySQL", "Microsoft Access", "teamwork", "problem solving"]
+  },
+  {
+    "id": "exp-6",
+    "monthYear": "February 2024",
+    "events": [
+      {
+        "title": "Staff of Special Ramadhan Study Sessions at ITS Campus",
+        "period": "February 2024 - April 2025",
+        "description": "Planned events for the special Ramadhan study sessions at ITS Campus."
+      },
+      {
+        "title": "Creative Staff of Schematics ITS 2024",
+        "period": "February 2024 - November 2025",
+        "description": "Created designs, content, and content design briefs for the Schematics ITS 2024 event."
+      },
+      {
+        "title": "Staff Media and Information of Jamaah Manarul Ilmi ITS 2024",
+        "period": "February 2024 - February 2025",
+        "description": "Created designs, content, and content design briefs for the media and information needs of Jamaah Manarul Ilmi ITS 2024."
+      }
+    ],
+    "techStack": ["design", "Figma", "Canva", "communication", "teamwork", "problem solving"]
+  },
+  {
+    "id": "exp-7",
+    "monthYear": "June 2024",
+    "events": [
+      {
+        "title": "Staff Syiar of Keluarga Muslim Informatika ITS",
+        "period": "June 2024 - January 2025",
+        "description": "Planned study session events for the Informatics Muslim Family (Keluarga Muslim Informatika) ITS."
+      },
+      {
+        "title": "Staff Administration of ITS Chess Tournament 2024",
+        "period": "June 2024 - January 2025",
+        "description": "Processed participant and competition data for the ITS Chess Tournament 2024."
+      }
+    ],
+    "techStack": ["communication", "teamwork", "problem solving"]
+  },
+  {
+    "id": "exp-8",
+    "monthYear": "July 2024",
+    "events": [
+      {
+        "title": "Built a Simple Javanese-English-Indonesian Dictionary Using CSS, HTML, JavaScript, and Ajax",
+        "period": "July 2024",
+        "description": "Built a simple dictionary to translate between Javanese, English, and Indonesian using CSS, HTML, JavaScript, and Ajax."
+      }
+    ],
+    "techStack": ["CSS", "HTML", "Javascript", "Ajax", "communication", "teamwork", "problem solving"]
+  },
+  {
+    "id": "exp-9",
+    "monthYear": "December 2024",
+    "events": [
+      {
+        "title": "Built a Simple MiawSweeper Website Using the Vue.js Framework",
+        "period": "December 2024",
+        "description": "Built a simple MiawSweeper website using the Vue.js framework with BFS & DFS algorithms."
+      }
+    ],
+    "techStack": ["Vue.js", "BFS", "DFS", "communication", "teamwork", "problem solving", "Vercel"]
+  },
+  {
+    "id": "exp-10",
+    "monthYear": "June 2025",
+    "events": [
+      {
+        "title": "Built a Simple Flappy Bird Game Using Java",
+        "period": "June 2025",
+        "description": "Built a simple Flappy Bird game using Java."
+      },
+      {
+        "title": "Implemented Inter-Device Communication Using Python",
+        "period": "June 2025",
+        "description": "Implemented inter-device communication using Python with the DES algorithm."
+      }
+    ],
+    "techStack": ["Python", "DES", "Security", "communication", "teamwork", "problem solving"]
+  },
+  {
+    "id": "exp-11",
+    "monthYear": "July 2025",
+    "events": [
+      {
+        "title": "Built a Queuing System Simulation Using JaamSim",
+        "period": "July 2025",
+        "description": "Built a queuing system simulation using JaamSim."
+      },
+      {
+        "title": "Built a Sentiment Analysis of Airline Data from Kaggle with a Python Interface",
+        "period": "July 2025",
+        "description": "Built a sentiment analysis of airline data from Kaggle along with its interface using Python."
+      }
+    ],
+    "techStack": ["Jaamsim", "Python", "communication", "teamwork", "problem solving"]
+  },
+  {
+    "id": "exp-12",
+    "monthYear": "January 2026",
+    "events": [
+      {
+        "title": "Secretary and Treasurer of FTEIC ITS 2026 Student Guides",
+        "period": "January 2026",
+        "description": "Managed activities, administration, and finances for the FTEIC ITS 2026 student guide team."
+      },
+      {
+        "title": "Internship at PLN: Built a Predictive Maintenance Website Using Laravel",
+        "period": "January 2026",
+        "description": "Built a Predictive Maintenance website using Laravel."
+      }
+    ],
+    "techStack": ["Laravel", "MySQL", "communication", "teamwork", "problem solving", "excel"]
+  },
+  {
+    "id": "exp-13",
+    "monthYear": "February 2026",
+    "events": [
+      {
+        "title": "Tutor for Data Structures, Computer Organization, Operating Systems, and Numerical Computation",
+        "period": "February 2026",
+        "description": "Served as a tutor for Data Structures, Computer Organization, Operating Systems, and Numerical Computation courses."
+      },
+      {
+        "title": "Mentor for Future Leader of ITS 2026",
+        "period": "February 2026",
+        "description": "Served as a mentor for the Future Leader of ITS 2026 program."
+      }
+    ],
+    "techStack": ["Data Structures", "Computer Organization", "Operating Systems", "Numerical Computation", "communication", "teamwork", "problem solving"]
+  },
+  {
+    "id": "exp-14",
+    "monthYear": "June 2026",
+    "events": [
+      {
+        "title": "OJK Project: Built a Financial Literacy Gamification Website",
+        "period": "June 2026",
+        "description": "Built a Financial Literacy Gamification website using Laravel."
+      }
+    ],
+    "techStack": ["Laravel", "MySQL", "communication", "teamwork", "problem solving"]
+  }
+]

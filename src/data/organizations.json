@@ -1,0 +1,119 @@
+[
+  {
+    "id": "org-1",
+    "name": "BEM FTEIC ITS",
+    "logo": "/BEMFTEIC.png",
+    "role": "Secretary and Treasurer of the Facilitator Coordination Board",
+    "period": "Jan 2026 - Dec 2026",
+    "description": "Managed the organization's administration and finances, and coordinated facilitator activities across various work programs.",
+    "achievements": [
+      "Prepared a transparent and accurate annual financial report.",
+      "Successfully coordinated 4 facilitator activities with over 80% member participation."
+    ]
+  },
+  {
+    "id": "org-2",
+    "name": "UKM Catur ITS",
+    "logo": "/CATUR.png",
+    "role": "Administration Staff, ITS Chess Tournament",
+    "period": "June 2024 - January 2025",
+    "description": "Responsible for the administration and documentation of the chess tournament, including participant registration, match scheduling, and publication of tournament results.",
+    "achievements": [
+      "Successfully managed registration for over 100 chess tournament participants.",
+      "Prepared an efficient and timely match schedule, ensuring the tournament ran smoothly."
+    ]
+  },
+  {
+    "id": "org-3",
+    "name": "RDK ITS",
+    "logo": "/RDK.png",
+    "role": "Special Studies Staff",
+    "period": "February 2024 - April 2025",
+    "description": "Prepared and delivered special studies on current issues, and collaborated with the media team to publish study results.",
+    "achievements": [
+      "Prepared special studies presented at internal and external forums.",
+      "Successfully increased member participation in special study discussions through effective communication strategies."
+    ]
+  },
+  {
+    "id": "org-4",
+    "name": "Schematics ITS",
+    "logo": "/Schematics.png",
+    "role": "Creative Staff",
+    "period": "February 2024 - November 2025",
+    "description": "Responsible for producing creative content for social media, and supported the team in developing robotics projects.",
+    "achievements": [
+      "Created creative content that increased Schematics ITS's social media engagement by up to 30%.",
+      "Successfully supported the team in developing a robotics project that won a national-level competition."
+    ]
+  },
+  {
+    "id": "org-5",
+    "name": "JMMI ITS",
+    "logo": "/JMMI.png",
+    "role": "Media and Information Staff",
+    "period": "Feb 2024 - February 2025",
+    "description": "Managed social media and published information related to JMMI ITS activities, and supported the team in preparing promotional materials and event documentation.",
+    "achievements": [
+      "Increased JMMI ITS's social media followers by up to 25% through effective content strategy.",
+      "Successfully prepared engaging and informative promotional materials and event documentation, increasing member participation in JMMI ITS activities."
+    ]
+  },
+  {
+    "id": "org-6",
+    "name": "LMB ITS",
+    "logo": "/LMB.png",
+    "role": "Consumption Staff",
+    "period": "November 2023 - November 2023",
+    "description": "Responsible for managing consumption for LMB ITS activities, including menu planning, food procurement, and coordination with the logistics team and event committee.",
+    "achievements": [
+      "Successfully prepared a consumption menu that matched participants' needs and the available budget.",
+      "Improved food procurement efficiency through good coordination with the logistics team and event committee, ensuring LMB ITS activities ran smoothly and satisfied participants."
+    ]
+  },
+  {
+    "id": "org-7",
+    "name": "INI LHO ITS!",
+    "logo": "/ILITS.webp",
+    "role": "Data Management Staff",
+    "period": "October 2023 - March 2024",
+    "description": "Responsible for managing member and activity data for INI LHO ITS!, including data collection, storage, and analysis to support organizational decision-making.",
+    "achievements": [
+      "Successfully managed the member and activity database for INI LHO ITS! accurately and efficiently.",
+      "Prepared data analysis reports that supported strategic decision-making in organizational activity planning."
+    ]
+  },
+  {
+    "id": "org-8",
+    "name": "CSSMora ITS",
+    "logo": "/CSS.jpg",
+    "role": "Member",
+    "period": "August 2023 - August 2027",
+    "description": "Served as a member in CSSMora ITS activities, including participation in theater performances and social activities organized by the organization.",
+    "achievements": [
+      "Volunteer, Abdi Pesantren 2024"
+    ]
+  },
+  {
+    "id": "org-9",
+    "name": "UKM Penalaran ITS",
+    "logo": "/Penalaran.png",
+    "role": "Member",
+    "period": "September 2023 - September 2024",
+    "description": "Served as a member in UKM Penalaran ITS activities, including participation in scientific paper writing and social activities organized by the organization.",
+    "achievements": [
+      "Participated in scientific paper writing that was presented at an internal seminar."
+    ]
+  },
+  {
+    "id": "org-10",
+    "name": "UKM TDC ITS",
+    "logo": "/TDC.png",
+    "role": "Member",
+    "period": "September 2023 - September 2024",
+    "description": "Served as a member in UKM TDC ITS activities.",
+    "achievements": [
+      "Participated in the 2024 Business Plan Competition."
+    ]
+  }
+]

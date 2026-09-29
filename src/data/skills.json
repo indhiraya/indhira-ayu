@@ -1,0 +1,50 @@
+[
+  {
+    "id": "skill-1",
+    "category": "Frontend Development",
+    "description": "Building modern, responsive, and interactive user interfaces with clean architecture and smooth animations.",
+    "skills": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Vue", "Framer Motion"]
+  },
+  {
+    "id": "skill-2",
+    "category": "AI & Machine Learning",
+    "description": "Exploring data, developing classification models, and integrating intelligent LLM or Computer Vision solutions into web apps.",
+    "skills": ["Python", "Scikit-Learn", "PyTorch", "Pandas", "FastAPI"]
+  },
+  {
+    "id": "skill-3",
+    "category": "Backend Development",
+    "description": "Designing and implementing robust backend systems, APIs, and databases for scalable web applications.",
+    "skills": ["Laravel", "Node.js", "Express", "MongoDB", "PostgreSQL", "RESTful APIs"]
+  },
+  {
+    "id": "skill-4",
+    "category": "Mobile Development",
+    "description": "Building mobile apps using React Native, Flutter, or Kotlin.",
+    "skills": ["React Native", "Flutter", "Kotlin"]
+  },
+  {
+    "id": "skill-5",
+    "category": "DevOps & Cloud",
+    "description": "Deploying and managing applications in cloud environments, ensuring high availability and performance.",
+    "skills": ["Docker", "Kubernetes", "AWS", "Azure", "GCP"]
+  },
+  {
+    "id": "skill-6",
+    "category": "System Analysis & Design",
+    "description": "Analyzing and designing complex systems to meet business requirements and user needs.",
+    "skills": ["System Analysis", "UML", "ER Diagrams", "Requirements Gathering"]
+  },
+  {
+    "id": "skill-7",
+    "category": "Business Analysis",
+    "description": "Analyzing and interpreting business data to support decision-making and identify opportunities for improvement.",
+    "skills": ["Data Analysis", "Market Research", "Financial Analysis", "Business Intelligence"]
+  },
+  {
+    "id": "skill-8",
+    "category": "Soft Skills & Leadership",
+    "description": "Collaborating effectively in cross-functional teams with strong critical thinking, analytical reasoning, and problem-solving abilities.",
+    "skills": ["Critical Thinking", "Problem Solving", "Leadership", "Tutoring"]
+  }
+]
